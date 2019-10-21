@@ -1,0 +1,14 @@
+C:\Users\FELIX\Desktop\logger\logger\bin\Debug\logger.exe.config
+C:\Users\FELIX\Desktop\logger\logger\bin\Debug\logger.exe
+C:\Users\FELIX\Desktop\logger\logger\bin\Debug\logger.pdb
+C:\Users\FELIX\Desktop\logger\logger\bin\Debug\Fleck.dll
+C:\Users\FELIX\Desktop\logger\logger\obj\Debug\logger.csprojResolveAssemblyReference.cache
+C:\Users\FELIX\Desktop\logger\logger\obj\Debug\logger.exe
+C:\Users\FELIX\Desktop\logger\logger\obj\Debug\logger.pdb
+C:\Users\FELIX\Desktop\prog\logger\logger\bin\Debug\logger.exe.config
+C:\Users\FELIX\Desktop\prog\logger\logger\bin\Debug\logger.exe
+C:\Users\FELIX\Desktop\prog\logger\logger\bin\Debug\logger.pdb
+C:\Users\FELIX\Desktop\prog\logger\logger\bin\Debug\Fleck.dll
+C:\Users\FELIX\Desktop\prog\logger\logger\obj\Debug\logger.csprojResolveAssemblyReference.cache
+C:\Users\FELIX\Desktop\prog\logger\logger\obj\Debug\logger.exe
+C:\Users\FELIX\Desktop\prog\logger\logger\obj\Debug\logger.pdb
